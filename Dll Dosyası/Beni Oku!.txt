@@ -1,0 +1,10 @@
+Eðer Visual Studio Baþvurularýnda "MySql.Data" çalýþmaz ise "MySql.Data.dll" dosyasýný
+
+"Baþvurulara Sað Týkla>Baþvuru Ekle" bastýktan sonra "Gözat" ve "MySql.Data.dll" dosyasýný
+seçtikten sonra baþvurulara ekleyiniz. Eðer MySql.Data baþvurusu önceden tanýmlý ise
+önceden tanýmlý olan dosyasý siliniz ve yeniden tanýmlayýnýz. Sorun halen daha devam ediyor
+ise proje yapýmcýsýndan destek alýnýz.
+
+Kasým Mert ÞENTÜRK
+ksm_mrtsntrk@outlook.com
+www.mertsenturk.net
